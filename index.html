@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>NVH Game</title>
+<style>
+body{
+    background:#111;
+    color:white;
+    text-align:center;
+    font-family:Arial;
+}
+button{
+    padding:15px 30px;
+    font-size:20px;
+}
+</style>
+</head>
+<body>
+
+<h1>🎮 NVH GAME 🎮</h1>
+<p>Nhấn nút để kiếm điểm!</p>
+
+<h2 id="score">0</h2>
+
+<button onclick="addScore()">+1 Điểm</button>
+
+<script>
+let score = 0;
+
+function addScore(){
+    score++;
+    document.getElementById("score").innerText = score;
+}
+</script>
+
+</body>
+</html>
