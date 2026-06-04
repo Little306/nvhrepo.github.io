@@ -21,25 +21,7 @@ header{
 }
 .btn{
     display:inline-block;
-    background:#007aff;
-    color:white;
-    text-decoration:none;
-    padding:12px 24px;
-    border-radius:12px;
-    margin-top:20px;
-}
-.card{
-    background:#1c1c1e;
-    margin:20px;
-    padding:20px;
-    border-radius:15px;
-}
-</style>
-</head>
-<body>
-
-<header>
-    <img src="logo.png" class="logo">
+    background:#
     <h1>NVH Repo</h1>
     <p>Kho ứng dụng và tweak</p>
     <a href="#" class="btn">Thêm vào Sileo</a>
