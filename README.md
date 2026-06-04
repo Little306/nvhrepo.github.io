@@ -1,26 +1,4 @@
 <!DOCTYPE html>
-<html lang="vi">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>NVH Repo</title>
-
-<style>
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:-apple-system,BlinkMacSystemFont,sans-serif;
-}
-
-body{
-background:linear-gradient(135deg,#0f0f0f,#1a1a1a);
-color:white;
-text-align:center;
-min-height:100vh;
-}
-
-.header{
 padding:60px 20px;
 }
 
